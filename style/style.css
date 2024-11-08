@@ -10,6 +10,14 @@ header{
     --card-back-color: #15AE68;
 
 }
-
-
+body{
+    font-family:Tomorrow;
+}
+.cartao__conteudo{
+    background-color:var(--card-front-color);
+    text-align: center;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 300ms ease-in-out;
+}
 }
