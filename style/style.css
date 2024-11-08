@@ -3,5 +3,13 @@
     padding: 0;
 }
 header{
-    background-color: aquamarine;
+    background-color: rgb(0, 0, 0);
+:root{
+    --text-color: #ffffff;
+    --card-front-color: #09683d;
+    --card-back-color: #15AE68;
+
+}
+
+
 }
